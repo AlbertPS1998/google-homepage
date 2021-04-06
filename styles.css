@@ -1,0 +1,45 @@
+#busqueda {
+   width: 500px;
+   height: 40px;
+   position:absolute;
+   top: 40%;
+   left: 30%;
+   border-radius: 20px;
+  
+}
+#logogoogle {
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+  left: 40px;
+  bottom: 110px;
+}
+.partederecha {
+  position:absolute;
+  left: 80%;
+}
+a {
+  text-decoration:none;
+}
+a:hover {
+  color:coral
+}
+
+
+}
+.boton_de_búsqueda {
+  width: 15px;
+  position:absolute;
+  right: 50%;
+  top: 43%;
+}
+#botones_inferiores {
+  position: absolute;
+  right: 43%;
+  top: 48%;
+}
+.imagengithub {
+  width: 70px;
+  position: relative;
+  top: 10px;
+}
